@@ -1,2 +1,2 @@
-# puzzles-game
+# puzzleGame
 switch in java
